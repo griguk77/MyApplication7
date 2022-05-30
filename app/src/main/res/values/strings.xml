@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application7</string>
+    <string name="web">Открыть веб-страницу</string>
+    <string name="call">Совершить звонок</string>
+    <string name="map">Открыть карту</string>
+    <string name="mes">Написать сообщение</string>
+</resources>
